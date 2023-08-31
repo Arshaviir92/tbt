@@ -1,0 +1,25 @@
+/* this is a comment in css */
+body{
+	font-family: 'roboto',sans-serif;
+}
+.f{
+	text-align: center;
+	color: purple;
+}
+.fii{
+	width: 500px;
+	text-align: center;
+}
+.tt{
+text-align: center;
+	color: purple;	
+}
+.clas{
+	background-color: #9ED2FA;
+	padding: 1px;
+	text-align: center;
+}
+.fov{
+	color: purple;
+	text-align: center;
+}
